@@ -1,6 +1,6 @@
 # Practica
 hola mundo 
-Mi primer repositorio Github
+Mi primer repositorio Github y mi primer README en github
 
 hi! i'm Jesica :alien: 
 and i have a dog called Phoebe :dog2:
